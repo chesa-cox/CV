@@ -4,13 +4,13 @@ layout: homepage
 
 ## About Me
 
-Chesa Cox is a PhD student at the Institute of Global Health Sciences at UCSF. She is also a data manager for clinical programs at the outpatient HIV clinic, Ward 86 based at Zuckerberg San Francisco General Hospital. >
+Chesa Cox is a PhD student at the Institute of Global Health Sciences at UCSF. She is also a data manager at Ward 86, an outpatient HIV clinic at Zuckerberg San Francisco General Hospital. >
 
 ## Research Interests
 
-- **Implementation Science:** Dissertation focus is the implementation of injectable, long-acting ART in San Francisco
-- **Food is Medicine Interventions:** meta-learning, incremental learning, transfer learning
-- **Mixed-methods Research:** Interested in both quantitative and qualitative methods to address global health inequities
+- **Implementation Science:** Dissertation focus is studying the implementation of injectable, long-acting ART in San Francisco.
+- **Food is Medicine Interventions:** Personally interested in food is medicine interventions and tailoring food programs to improve health outcomes among those disproportionately impacted by social determinants of health.
+- **Mixed-method, Community-based Research:** Interested in both quantitative and qualitative methods and working with communities to provide context-driven, equitable, and sustainable implementation of interventions.
 
 {% include_relative _includes/education.md %}
 
