@@ -1,13 +1,17 @@
 main:
 
   - type: education
-    degreepath: This is a degree path # for type.education.
-    institution: University University
-    department: Lorem Ipsum
-    advisors: Jane Doe, John Doe # for type.education.
-    thesis: "Making Github Templates" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
-    years: 2017 - Present
-    notes: In Progress
+    degreepath: Master's in Public Health # for type.education.
+    institution: University of California, Berkeley
+    department: Public Health, Infectious Diseases and Vaccinology
+    advisors: Eva Harris # for type.education
+    years: 2014 - 2016
+
+   - type: education
+    degreepath: Bachelor's of Science and Bachelor's of Art # for type.education.
+    institution: University of California, San Diego
+    department: Biology & History
+    years: 2008 - 2012   
     
   - type: job
     title: Example Job # for type.employment.
