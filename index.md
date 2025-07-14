@@ -4,13 +4,13 @@ layout: homepage
 
 ## About Me
 
-Sean Purcell is a digital health humanist who works at UCSF>
+Chesa Cox is a PhD student at the Institute of Global Health Sciences at UCSF. She is also a data manager for clinical programs at the outpatient HIV clinic, Ward 86 based at Zuckerberg San Francisco General Hospital. >
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-- **Digital Health Humanities:** I do things.
+- **Implementation Science:** Dissertation focus is the implementation of injectable, long-acting ART in San Francisco
+- **Food is Medicine Interventions:** meta-learning, incremental learning, transfer learning
+- **Mixed-methods Research:** Interested in both quantitative and qualitative methods to address global health inequities
 
 {% include_relative _includes/education.md %}
 
